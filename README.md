@@ -82,3 +82,7 @@ Querying the access token endpoint as defined [here](https://developers.hubspot.
 ## Special Thanks
 
 In a rush, I borrowed heavily from [kmrshntr](https://github.com/kmrshntr)'s Slack Strategy in order to make this work. Thanks!
+## Project Overview
+
+This repository contains a HubSpot OAuth integration example.
+It includes authentication flow logic, request handling, and test coverage for the integration.
