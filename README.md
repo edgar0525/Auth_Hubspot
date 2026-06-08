@@ -86,3 +86,7 @@ In a rush, I borrowed heavily from [kmrshntr](https://github.com/kmrshntr)'s Sla
 
 This repository contains a HubSpot OAuth integration example.
 It includes authentication flow logic, request handling, and test coverage for the integration.
+
+## Usage Notes
+
+This project can be used as a reference for understanding OAuth flow setup and integration testing.
